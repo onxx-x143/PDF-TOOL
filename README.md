@@ -109,7 +109,7 @@ python3 main.py
 ## 🎯 Usage
 
 ```bash
-python pdf_unlocker.py
+python main.py
 ```
 
 ### Example Session:
