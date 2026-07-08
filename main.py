@@ -43,6 +43,6 @@ time.sleep(10)
 github_link = "https://github.com/onxx-x143"
 subprocess.run(['termux-open-url', github_link])
 
-subprocess.run(['python','unx.py])
+subprocess.run(['python', 'unx.py'])
 print("Thanks MrPassword & Mrsystem For Script")
 time.sleep(10)
